@@ -1,0 +1,14 @@
+site_name: Rust Project Documentation
+theme: material
+nav:
+  - Installation: installation.md
+  - Index: index.md
+  - Setup: setup.md
+  - Features: features.md
+  - Examples: examples.md
+  - API: api.md
+  - Configuration: configuration.md
+  - Testing: testing.md
+  - Performance: performance.md
+extra_css:
+  - 'stylesheets/custom.css'
